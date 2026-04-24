@@ -1,0 +1,2 @@
+# Python dependencies
+reportlab==3.5.59
